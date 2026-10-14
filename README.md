@@ -1,0 +1,2 @@
+# TurnitinCheck
+Plagiarism Checker
